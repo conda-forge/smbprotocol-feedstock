@@ -5,11 +5,13 @@ Home: https://github.com/jborean93/smbprotocol
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smbprotocol-feedstock/blob/master/LICENSE.txt)
 
 Summary: Interact with a server using the SMB 2/3 Protocol
 
+Development: https://github.com/jborean93/smbprotocol
 
+Documentation: https://github.com/jborean93/smbprotocol
 
 Current build status
 ====================
