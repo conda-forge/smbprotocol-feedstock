@@ -22,7 +22,6 @@ requirements:
     - python >=3.6
     - cryptography >=2.0
     - pyspnego
-    - six
   run_constrained:
     - python-gssapi >=1.4.1
 
