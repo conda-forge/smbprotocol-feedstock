@@ -1,5 +1,5 @@
 {% set name = "smbprotocol" %}
-{% set version = "1.7.0" %}
+{% set version = "1.8.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 4202c4286068a972b61d13f1b48d3b3272f583c77c7475e43ac88a7346b3cda9
+  sha256: cd01a8b9adb3de720d77405f809d6380c35316d71c752556b09980f493f9bf55
 
 build:
   number: 0
